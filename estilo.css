@@ -1,7 +1,7 @@
  
 
 body {
-background:base-color;
+background:rgb(132, 175, 255);
 font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 height:100%;
 }
@@ -27,7 +27,7 @@ p {
 button{
 background:base-color;
 color:rgb(132, 175, 255);
-border: solid 1px rgb(156, 156, 156);
+border: solid 2px rgb(255, 255, 255);
 border-radius: 10px;
 text-decoration:none;
 cursor:pointer;
@@ -40,8 +40,8 @@ margin: 10px;
 
 fieldset {
   background:base-color;
-  color:rgb(132, 175, 255);
-  border: solid 1px rgb(156, 156, 156);
+  color:rgb(255, 255, 255);
+  border: solid 3px rgb(255, 255, 255);
   border-radius: 10px;
   text-decoration:none;
   cursor:pointer;

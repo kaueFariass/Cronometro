@@ -20,7 +20,7 @@ h1, h2, h3 {
   text-transform: uppercase;
 }
 
-#segundos, #dezenas{
+p {
   font-size:2em;
 }
 
@@ -36,4 +36,17 @@ padding:18px 10px;
 width:180px;
 margin: 10px;
  outline: none;
+}
+
+fieldset {
+  background:base-color;
+  color:rgb(132, 175, 255);
+  border: solid 1px rgb(156, 156, 156);
+  border-radius: 10px;
+  text-decoration:none;
+  cursor:pointer;
+  font-size:1.2em;
+  padding:18px 10px;
+  margin: 10px;
+   outline: none;
 }

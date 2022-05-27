@@ -58,7 +58,7 @@ window.onload = function(){
             Minutos++;
             AcrecentarMinutos.innerHTML = "0" + Minutos;
             Segundos = 0;
-            AcrecentarSegundos.innerHTML = "0" + 0;
+            Acrecentars.innerHTML = "0" + 0;
         }
 
         if(Minutos > 9){

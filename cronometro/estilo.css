@@ -4,12 +4,11 @@
 }
 
 body {
-background-image: linear-gradient(45deg, black, aqua);
-height: 100vh;
-color: #fff;
-font-family: 'Roboto', sans-serif; 
-
-}
+  background-image: linear-gradient(45deg, black, aqua);
+  height: 100vh;
+  color: #fff;
+  font-family: 'Roboto', sans-serif; 
+  }
 
 .wrapper {
 background-color: black;
